@@ -1,10 +1,9 @@
 # /_data/authors.yml
 
-Alejandro Pinna:
-  name: "Alejandro Pinna"
-  #uri: "http://labs.innotecsystem.com"
-  bio: "Less is more"
+Rita:
+  name: "Rita Vratask"
+  bio: "In ancient days, men looked at stars and saw their heroes in the constellations. In modern times, we do much the same, but our heroes are epic men of flesh and blood."
   avatar: "/assets/images/profiles/metalgarurumon.png"
-    #  twitter: "metalamin"
-    #location: "Madrid, Spain"
+    #location: "Chaotic Neutral"
+
 

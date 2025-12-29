@@ -4,7 +4,7 @@ title: "Sobre mí"
 permalink: /about/
 ---
 
-<img src="https://github.com/RitaVratask/ritavratask.github.io/blob/main/assets/img/matrix.jpeg" style="width:150px; border-radius:50%; border:3px solid #00FF00; display: block; margin-left: auto; margin-right: auto;">
+<img src="https://github.com/RitaVratask/ritavratask.github.io/blob/main/assets/img/matrix.jpeg">
 
 # ¿Quién soy?
 

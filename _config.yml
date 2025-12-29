@@ -11,7 +11,12 @@ baseurl: ""
 author: "Rata Trataski"
 linkedin_username: "silvia-hernández-sánchez-899022121" 
 
-logo: "https://github.com/RitaVratask/ritavratask.github.io/blob/main/assets/img/matrix.jpeg" 
+# Forzamos todas las variantes posibles
+logo: "/assets/img/matrix.jpeg"
+user_logo: "/assets/img/matrix.jpeg"
+picture: "/assets/img/matrix.jpeg"
+
+# logo: "https://github.com/RitaVratask/ritavratask.github.io/blob/main/assets/img/matrix.jpeg" 
 
 remote_theme: pages-themes/midnight@v0.2.0
 

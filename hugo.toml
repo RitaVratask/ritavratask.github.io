@@ -3,6 +3,10 @@ languageCode = 'es-es'
 title = 'El sitio de la Silvia'
 theme = "hugo-brewm"
 
-buildFuture = true    
+buildFuture = true
 buildDrafts = true
-#contentDir = 'content'
+# Añadimos esto aquí arriba también
+mainSections = ["posts"]
+
+[params]
+    mainSections = ["posts"]

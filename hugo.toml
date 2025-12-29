@@ -1,12 +1,4 @@
 baseURL = 'https://ritavratask.github.io/'
-languageCode = 'es-es'
+languageCode = 'en-US'
 title = 'El sitio de la Silvia'
 theme = "hugo-brewm"
-
-buildFuture = true
-buildDrafts = true
-# Añadimos esto aquí arriba también
-mainSections = ["posts"]
-
-[params]
-    mainSections = ["posts"]

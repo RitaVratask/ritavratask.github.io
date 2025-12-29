@@ -3,11 +3,11 @@ languageCode = 'es-es'
 title = 'El sitio de la Silvia'
 theme = "hugo-brewm"
 
-# Forzamos la carpeta de contenido
+buildFuture = true    
+buildDrafts = true
 #contentDir = 'content'
 
 [params]
     # Quitamos el "/" y dejamos solo "posts"
     mainSections = ["posts"]
-    buildFuture = true
-    buildDrafts = true
+

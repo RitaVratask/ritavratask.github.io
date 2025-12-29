@@ -4,6 +4,8 @@ title: "Sobre mí"
 permalink: /about/
 ---
 
+<img src="{{ site.baseurl }}/assets/img/matrix.jpeg" style="width:150px; border-radius:50%; border:3px solid #00FF00; display: block; margin-left: auto; margin-right: auto;">
+
 # ¿Quién soy?
 
 ¡Hola! Soy Silvia. En este espacio comparto mis cosas sobre **ciberseguridad, inteligencia y análisis de malware**.  

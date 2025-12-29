@@ -6,7 +6,7 @@ permalink: /about/
 
 # ¿Quién soy?
 
-¡Hola! Soy Silvia. En este espacio comparto mis cosas sobre **ciberseguridad, inteligencia y análisis de malware**. 
+¡Hola! Soy Silvia. En este espacio comparto mis cosas sobre **ciberseguridad, inteligencia y análisis de malware**.  
 
 Mi objetivo con este blog es documentar lo que sé hacer.
 

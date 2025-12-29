@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://ritavratask.github.io/'
+languageCode = 'es-es'
+title = 'El sitio de la Silvia'
 theme = "hugo-brewm"
+
+[params]
+    mainSections = ["posts"]

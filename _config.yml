@@ -12,9 +12,11 @@ author: "Rata Trataski"
 linkedin_username: "silvia-hernández-sánchez-899022121" 
 
 # Forzamos todas las variantes posibles
-logo: "/assets/img/matrix.jpeg"
-user_logo: "/assets/img/matrix.jpeg"
-picture: "/assets/img/matrix.jpeg"
+# logo: "/assets/img/matrix.jpeg"
+# user_logo: "/assets/img/matrix.jpeg"
+# picture: "/assets/img/matrix.jpeg"
+
+<img src="{{ site.baseurl }}/assets/img/matrix.jpeg" "width:150px; border-radius:50%; border:3px solid #00FF00; display: block; margin-left: auto; margin-right: auto;">
 
 # logo: "https://github.com/RitaVratask/ritavratask.github.io/blob/main/assets/img/matrix.jpeg" 
 

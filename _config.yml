@@ -2,9 +2,11 @@ title: "El sitio de la Silvia"
 description: "Blog de ciberseguridad"
 tagline: "Escribiendo mis pensamientos sobre inteligencia, alguna investigacion que haga y otras cosas"
 
-# El tema Midnight de GitHub
+# URL de tu sitio (Añade esto para que carguen los estilos CSS)
+url: "https://ritavratask.github.io"
+baseurl: "" 
+
 remote_theme: pages-themes/midnight@v0.2.0
 
-# Corrección de la lista de plugins
 plugins:
   - jekyll-remote-theme

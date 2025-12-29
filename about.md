@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Sobre mí"
+permalink: /about/
 ---
 
 # ¿Quién soy?

@@ -8,7 +8,7 @@ permalink: /about/
 
 ¡Hola! Soy Silvia. En este espacio comparto mis cosas sobre **ciberseguridad, inteligencia y análisis de malware**.  
 
-Mi objetivo con este blog es documentar lo que sé hacer.
+Mi objetivo con este blog es documentar mi experiencia en ciberseguridad, mis análisis de malware, mis reflexiones sobre el análisis de inteligencia, entre otras cosas.
 
 ### Contacto
 Puedes encontrarme en:

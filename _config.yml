@@ -1,9 +1,8 @@
 title: "An eerie sight"
 description: "Pocos ven lo que somos, pero todos ven lo que aparentamos."
-show_downloads: false # Esto limpia la barra lateral y ayuda a que el logo resalte
-google_analytics: # Déjalo vacío si no lo usas
+show_downloads: false
 
-# URL de tu sitio (Añade esto para que carguen los estilos CSS)
+# URL de tu sitio
 url: "https://ritavratask.github.io"
 baseurl: "" 
 
@@ -11,14 +10,8 @@ baseurl: ""
 author: "Rata Trataski"
 linkedin_username: "silvia-hernández-sánchez-899022121" 
 
-# Forzamos todas las variantes posibles
-# logo: "/assets/img/matrix.jpeg"
-# user_logo: "/assets/img/matrix.jpeg"
-# picture: "/assets/img/matrix.jpeg"
-
-<img src="{{ site.baseurl }}/assets/img/matrix.jpeg" "width:150px; border-radius:50%; border:3px solid #00FF00; display: block; margin-left: auto; margin-right: auto;">
-
-# logo: "https://github.com/RitaVratask/ritavratask.github.io/blob/main/assets/img/matrix.jpeg" 
+# Configuración del logo (Asegúrate de que el nombre sea matrix.jpeg)
+logo: "/assets/img/matrix.jpeg"
 
 remote_theme: pages-themes/midnight@v0.2.0
 

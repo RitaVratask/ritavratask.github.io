@@ -25,4 +25,4 @@ En este blog publico artículos sobre cómo analizo amenazas y desarrollo detecc
 ---
 
 ## 🔗 Enlaces 
-[Sobre mí]({{ site.baseurl }}/about/) | [LinkedIn](https://www.linkedin.com/in/tu-usuario-de-linkedin) | [GitHub](https://github.com/Ritavratask)
+[Sobre mí]({{ site.baseurl }}/about/) | [LinkedIn](https://www.linkedin.com/in/silvia-hernández-sánchez-899022121/) | [GitHub](https://github.com/Ritavratask)

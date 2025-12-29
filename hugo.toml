@@ -6,3 +6,5 @@ theme = "hugo-brewm"
 [params]
     # Esta línea es la que quita al gato y pone tus posts
     mainSections = ["posts"]
+buildFuture = true
+buildDrafts = true

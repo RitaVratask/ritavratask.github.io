@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Inicio
+[Sobre mí](/about/) | [LinkedIn](https://www.linkedin.com/in/tu-usuario-de-linkedin).
 ---
 
-### Bienvenido a mi blog
+### Cuando exploras la Tierra de Nadie
 
-Aquí encontrarás mis artículos sobre ciberseguridad, malware e inteligencia.
+Aquí encontrarás mis artículos.
 
 #### Entradas recientes:
 {% for post in site.posts %}

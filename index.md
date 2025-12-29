@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Inicio
-[Sobre mí](/about/) | [LinkedIn](https://www.linkedin.com/in/tu-usuario-de-linkedin).
 ---
 
 ### Cuando exploras la Tierra de Nadie

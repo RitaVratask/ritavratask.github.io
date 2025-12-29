@@ -1,0 +1,10 @@
+.profile-picture {
+    display: block;
+    width: 150px;  /* Ajusta el tamaño a tu gusto */
+    height: 150px; /* Al ser iguales, la foto es cuadrada */
+    object-fit: cover; /* Evita que la imagen se deforme si no es cuadrada originalmente */
+    border-radius: 0%; /* 0% para cuadrado perfecto, 10% para puntas suaves */
+    border: 3px solid #00FF00; /* Color verde Matrix */
+    margin-bottom: 20px;
+    box-shadow: 0 0 15px rgba(0, 255, 0, 0.3); /* Efecto de brillo */
+}

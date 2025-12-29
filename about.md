@@ -5,7 +5,7 @@ title: "Sobre mí"
 
 # ¿Quién soy?
 
-¡Hola! Soy Rata Trataski. En este espacio comparto mis cosas sobre **ciberseguridad, inteligencia y análisis de malware**. 
+¡Hola! Soy Silvia. En este espacio comparto mis cosas sobre **ciberseguridad, inteligencia y análisis de malware**. 
 
 Mi objetivo con este blog es documentar lo que sé hacer.
 

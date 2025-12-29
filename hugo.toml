@@ -1,4 +1,0 @@
-baseURL = 'https://ritavratask.github.io/'
-languageCode = 'en-US'
-title = 'El sitio de la Silvia'
-theme = "hugo-brewm"

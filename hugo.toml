@@ -3,8 +3,10 @@ languageCode = 'es-es'
 title = 'El sitio de la Silvia'
 theme = "hugo-brewm"
 
+# Forzamos la carpeta de contenido
+contentDir = 'content'
+
 [params]
-    # Esta línea es la que quita al gato y pone tus posts
-    mainSections = ["posts"]
-buildFuture = true
-buildDrafts = true
+    mainSections = ["posts", "/"]
+    buildFuture = true
+    buildDrafts = true

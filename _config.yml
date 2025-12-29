@@ -5,6 +5,12 @@ description: "Escribiendo mis pensamientos sobre inteligencia, malware, cibercri
 url: "https://ritavratask.github.io"
 baseurl: "" 
 
+# Datos de perfil
+author: "Rata Trataski"
+linkedin_username: "silvia-hernández-sánchez-899022121" 
+
+logo: "/assets/img/matrix.jpeg"
+
 remote_theme: pages-themes/midnight@v0.2.0
 
 plugins:

@@ -5,7 +5,7 @@ title: Inicio
 
 ### Bienvenido a mi blog
 
-Aquí encontrarás mis artículos sobre ciberseguridad e inteligencia.
+Aquí encontrarás mis artículos sobre ciberseguridad, malware e inteligencia.
 
 #### Entradas recientes:
 {% for post in site.posts %}

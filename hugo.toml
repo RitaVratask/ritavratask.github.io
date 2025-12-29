@@ -4,7 +4,7 @@ title = 'El sitio de la Silvia'
 theme = "hugo-brewm"
 
 # Forzamos la carpeta de contenido
-contentDir = 'content'
+#contentDir = 'content'
 
 [params]
     # Quitamos el "/" y dejamos solo "posts"

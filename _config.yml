@@ -1,5 +1,7 @@
 title: "An eerie sight"
 description: "Nada en la vida debe ser temido, solo comprendido. Ahora es el momento de comprender más, para que podamos temer menos"
+show_downloads: false # Esto limpia la barra lateral y ayuda a que el logo resalte
+google_analytics: # Déjalo vacío si no lo usas
 
 # URL de tu sitio (Añade esto para que carguen los estilos CSS)
 url: "https://ritavratask.github.io"
@@ -9,7 +11,7 @@ baseurl: ""
 author: "Rata Trataski"
 linkedin_username: "silvia-hernández-sánchez-899022121" 
 
-logo: "/assets/img/matrix.jpeg"
+logo: "https://raw.githubusercontent.com/Ritavratask/ritavratask.github.io/main/assets/img/matrix.jpeg"
 
 remote_theme: pages-themes/midnight@v0.2.0
 

@@ -6,8 +6,3 @@ theme = "hugo-brewm"
 buildFuture = true    
 buildDrafts = true
 #contentDir = 'content'
-
-[params]
-    # Quitamos el "/" y dejamos solo "posts"
-    mainSections = ["posts"]
-
